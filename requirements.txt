@@ -1,0 +1,6 @@
+Flask
+mysql-connector
+python-dateutil
+flask-restful
+xmltodict
+openvas_lib
